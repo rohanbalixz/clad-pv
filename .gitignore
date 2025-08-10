@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# Envs & IDE
+.venv/
+.env
+.env.*
+.vscode/
+.idea/
+
+# Data & outputs
+data/raw/
+data/processed/
+*.pcap
+*.pcapng
+logs/
+outputs/
+models/**/checkpoints/
+
+# OS cruft
+.DS_Store

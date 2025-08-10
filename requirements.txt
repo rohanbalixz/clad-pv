@@ -1,0 +1,12 @@
+OpenDSSDirect.py
+pymodbus
+pyshark
+cryptography
+fastapi
+uvicorn
+numpy
+pandas
+scipy
+scikit-learn
+jupyter
+matplotlib
