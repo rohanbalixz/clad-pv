@@ -1,0 +1,2 @@
+{"event": {"action": "set_curtailment", "curtailment": 0.5, "nonce": "shot1", "caller": "local", "ts": 1754863295}, "sig": "728dccdcea915f4d53beb1b7fad56f9e74a0b9c0510cbf8971e9f4982e9c12ab"}
+{"event": {"action": "set_curtailment", "curtailment": 0.5, "nonce": "shot1", "caller": "local", "ts": 1754863850}, "sig": "375783fa6fbd383a246f106782ed0438b40a82ed8c4018fd55924521cfd7fff5"}
