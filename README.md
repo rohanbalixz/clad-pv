@@ -1,5 +1,8 @@
 # CLAD-PV: Cybersecurity & Load-Aware Dispatch for Photovoltaics
 
+![CLAD-PV Project](clad-pv.png)
+
+
 ## Overview
 CLAD-PV is a **secure control and monitoring system** for photovoltaic (PV) infrastructure.  
 It integrates **Modbus/TCP communication**, **secure API control**, and **real-time anomaly detection** to ensure safe, resilient, and optimal PV operations — even under cyber-attack conditions.
